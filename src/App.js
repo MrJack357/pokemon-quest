@@ -9,14 +9,14 @@ import PokemonDetails from './pages/Details/PokemonDetails';
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <BrowserRouter basename="/pokemon-quest">
         <GlobalStyles />
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/pokemon/:name" element={<PokemonDetails />} />
         </Routes>
-      </Router>
+      </BrowserRouter>
     </ThemeProvider>
   );
 }
