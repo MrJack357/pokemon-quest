@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pokemon-quest/static/css/main.83f8d106.css",
-    "main.js": "/pokemon-quest/static/js/main.ef9094ba.js",
+    "main.js": "/pokemon-quest/static/js/main.38232370.js",
     "index.html": "/pokemon-quest/index.html",
     "main.83f8d106.css.map": "/pokemon-quest/static/css/main.83f8d106.css.map",
-    "main.ef9094ba.js.map": "/pokemon-quest/static/js/main.ef9094ba.js.map"
+    "main.38232370.js.map": "/pokemon-quest/static/js/main.38232370.js.map"
   },
   "entrypoints": [
     "static/css/main.83f8d106.css",
-    "static/js/main.ef9094ba.js"
+    "static/js/main.38232370.js"
   ]
 }
