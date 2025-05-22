@@ -129,7 +129,7 @@ const Home = () => {
 
     return (
         <HomeContainer>
-            <Title>Explore o Mundo Pokémon</Title>
+            <Title>Descubra dados, poderes e segredos de todos os Pokémon!</Title>
 
             <FilterSection>
                 <TypeFilter onFilterChange={handleFilterChange} />

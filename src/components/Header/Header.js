@@ -31,7 +31,7 @@ const Header = () => {
         <HeaderContainer>
             <Logo to="/">
                 <LogoImage src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png" alt="PokéAPI" />
-                Pokéquest Desafio React
+                Datadex
             </Logo>
             <ThemeToggler />
         </HeaderContainer>
