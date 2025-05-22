@@ -1,4 +1,4 @@
-# Guia de Execução - Pokemon Quest
+# Guia de Execução - Pokemon Quest - Datadex
 
 Este documento contém as instruções para executar o projeto Pokemon Quest, uma aplicação React que consome a PokeAPI e exibe informações sobre pokémons.
 
